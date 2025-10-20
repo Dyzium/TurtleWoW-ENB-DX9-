@@ -15,7 +15,7 @@ A lightweight ENB preset for **TurtleWoW** and **Classic WoW** designed to make 
 
 ### 📦 Download
 You can download the full ENB preset here:  
-👉 [**TurtleWoW ENB – Enhanced Visual Edition on Nexus Mods**](https://www.nexusmods.com/)  
+👉 [**TurtleWoW ENB – Enhanced Visual Edition on Nexus Mods**](https://www.nexusmods.com/worldofwarcraft/mods/887?tab=files)
 
 You also need the ENBSeries files:  
 ➡️ [Download ENBSeries v0.075 from ENBDev](http://enbdev.com/mod_gtasa_v0075.htm)
@@ -24,7 +24,7 @@ You also need the ENBSeries files:
 
 ### ⚙️ Installation
 1. Download and extract the **ENBSeries** files into your game directory (where `wow.exe` is).  
-2. Download and extract **TurtleWoW ENB** from the Nexus page.  
+2. Download **TurtleWoW ENB** from Nexus Mods.  
 3. Copy all ENB files into your World of Warcraft or TurtleWoW folder.  
 4. Replace existing ENB files when prompted.  
 5. Launch the game and enjoy the new visuals!
